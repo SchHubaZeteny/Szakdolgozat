@@ -1,2 +1,0 @@
-# Szakdolgozat
-Ez a szakdolgozatom
